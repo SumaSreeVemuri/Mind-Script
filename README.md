@@ -13,3 +13,5 @@ Whether you're jotting down ideas, making to-do lists, or storing important info
 
 # adding a note
 ![i2](https://github.com/SumaSreeVemuri/Mind-Script/assets/108190747/2b73d298-3514-45a7-b3cd-3dc827f9a671)
+# deleting and updating a note
+![i3](https://github.com/SumaSreeVemuri/Mind-Script/assets/108190747/3ef7467b-f471-4014-aed1-274560bf6e60)
