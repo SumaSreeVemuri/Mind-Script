@@ -11,3 +11,5 @@ Whether you're jotting down ideas, making to-do lists, or storing important info
 
 ![i4](https://github.com/SumaSreeVemuri/Mind-Script/assets/108190747/d51668ae-4edf-455b-a426-226e4f620b06)
 
+# adding a note
+![i2](https://github.com/SumaSreeVemuri/Mind-Script/assets/108190747/2b73d298-3514-45a7-b3cd-3dc827f9a671)
